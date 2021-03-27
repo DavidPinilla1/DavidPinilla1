@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Pinilla</h1>
-<h3 align="center">Full Stack Developer MERN & MEAN Stack, PHP+Laravel, Blockchain dev, Economist and Tech enthusiast</h3>
+<h3 align="center">Full Stack Developer MERN, MEAN & MEVN Stacks, PHP+Laravel, Python + Django, Blockchain dev, Economist and Tech enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidpinilla1" alt="davidpinilla1" /> </p>
 
 - 🔭 I’m currently working as **Full Stack Developer**
