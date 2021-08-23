@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as **Full Stack Developer**
 
-- 💬 Ask me about **JavaScript (React, Angular, NodeJS), MongoDB or PHP (Laravel)**
+- 💬 Ask me about **JavaScript (React, Angular, NodeJS), MongoDB ,PHP (Laravel) Python (Django)**
 
 - 📫 How to reach me **contact@davidpinilla.com**
 
